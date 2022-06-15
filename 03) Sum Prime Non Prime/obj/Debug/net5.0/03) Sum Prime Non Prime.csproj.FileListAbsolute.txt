@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\bin\Debug\net5.0\03) Sum Prime Non Prime.exe
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\bin\Debug\net5.0\03) Sum Prime Non Prime.deps.json
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\bin\Debug\net5.0\03) Sum Prime Non Prime.runtimeconfig.json
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\bin\Debug\net5.0\03) Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\bin\Debug\net5.0\03) Sum Prime Non Prime.dll
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\bin\Debug\net5.0\ref\03) Sum Prime Non Prime.dll
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\bin\Debug\net5.0\03) Sum Prime Non Prime.pdb
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.dll
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\ref\03) Sum Prime Non Prime.dll
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.pdb
+C:\Users\maxib\source\repos\Nested loops\03) Sum Prime Non Prime\obj\Debug\net5.0\03) Sum Prime Non Prime.genruntimeconfig.cache
